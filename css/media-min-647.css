@@ -1,0 +1,19 @@
+main .content{
+    align-content: center;
+    align-items: start;
+
+
+
+}
+
+main .content img{
+
+    min-height: 238px;
+    max-height: 100%;
+    width: 90%;
+
+
+    justify-self: left;
+
+
+}

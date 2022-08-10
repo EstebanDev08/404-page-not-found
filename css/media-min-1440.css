@@ -1,0 +1,12 @@
+main .content{
+    column-gap: 100px;
+}
+
+main .content img{
+
+
+    max-height: 450px;
+
+
+    justify-self: center;
+}

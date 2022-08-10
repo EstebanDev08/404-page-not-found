@@ -1,0 +1,27 @@
+body{
+
+    margin: 0 77px 24px 77px;
+
+
+}
+
+main .content{
+    column-gap: 50px;
+}
+
+.info-error-content h1 {
+
+    max-width: 580px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+
+    color: #333333;
+
+    margin-bottom: 28px;
+}
+
